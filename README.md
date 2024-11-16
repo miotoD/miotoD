@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miotod&label=Profile%20views&color=0e75b6&style=flat" alt="miotod" /> </p>
 
-- 🌱 I’m currently learning **Python,.NET**
-
 - 📫 How to reach me **manandharaayush61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
