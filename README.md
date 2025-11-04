@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Aayush Manandhar Here.</h1>
-<h3 align="center">A passionate learner and aspiring software engineer. I am into full-stack development and automation. Always learning new and more.</h3>
+<h3 align="center">A passionate Quality Assurance Enthusiast and software engineer. I am into Quality Assurance, development and automation. Always learning new and more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miotod&label=Profile%20views&color=0e75b6&style=flat" alt="miotod" /> </p>
 
